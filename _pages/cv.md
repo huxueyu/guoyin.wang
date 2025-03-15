@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-Education
-======
 - Ph.D., Duke University, 2013
 - Master, University of Illinois Urbana-Champaign, 2011
 - Bachelor, Peking University, 2007

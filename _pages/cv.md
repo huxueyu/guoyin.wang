@@ -15,7 +15,7 @@ Education
 - Bachelor, Peking University, 2007
 
 
-Work experience
+Work Experience
 ======
 - 2025-Present: Alibaba Qwen Pilot
 - 2024-2025: 01.AI (Rhymes AI)

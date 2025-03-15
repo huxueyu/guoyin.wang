@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-Publications
-======
 2025
 - The Good, The Bad, and The Greedy: Evaluation of LLMs Should Not Ignore Non-Determinism. Yifan Song, Guoyin Wang, Sujian Li, Bill Yuchen Lin. NAACL 2025 Main. 
 - GPT-NER: Named Entity Recognition via Large Language Models. Shuhe Wang, Xiaofei Sun, Xiaoya Li, Rongbin Ouyang, Fei Wu, Tianwei Zhang, Jiwei Li, Guoyin Wang, Chen Guo. NAACL 2025 Findings. 

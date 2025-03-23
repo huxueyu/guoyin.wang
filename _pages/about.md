@@ -12,7 +12,8 @@ I am currently leading **Qwen Pilot**, a newly established group within the [Qwe
 
 Hiring
 ======
-We are hiring research scientists, engineers, and interns for Qwen Pilot! Please drop me an email with your CV if you are interested.
+<span style="color:red">We are hiring experienced candidates, new grads and interns for Qwen Pilot!</span>
+Please drop me an email with your CV if you are interested.
 Open Positions:
 - Research Interns
 - 2024 Fall Graduates

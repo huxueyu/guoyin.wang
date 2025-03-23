@@ -21,10 +21,11 @@ Open Positions:
 
 Latest News
 ======
-[2025.03] I joined Alibaba to lead Qwen Pilot.  
-[2025.01] One paper was accepted by NAACL 2025 main conference and one by findings.  
-[2024.10] Yi-lightening **ranked #6 globally** at LMSYS Chatbot Arena and see our [technical report](https://arxiv.org/abs/2412.01253)  
-[2024.10] [Aria](https://arxiv.org/abs/2410.05993), an open multimodal native mixture-of-experts model, is released.  
-[2024.05] One paper is accepted by ACL 2024 main conference and one by findings.  
-[2024.05] Yi-series models are open-sourced and see our [technical report](https://arxiv.org/abs/2403.04652) and [models](https://huggingface.co/01-ai).  
-[2024.05] One paper is accepted by ICML 2024.
+- [2025.03] I joined Alibaba to lead Qwen Pilot.
+- [2025.02] I served as Area Chair for ARR 2025 Feb.
+- [2025.01] One paper was accepted by NAACL 2025 main conference and one by findings.  
+- [2024.10] Yi-lightening **ranked #6 globally** at LMSYS Chatbot Arena and see our [technical report](https://arxiv.org/abs/2412.01253)  
+- [2024.10] [Aria](https://arxiv.org/abs/2410.05993), an open multimodal native mixture-of-experts model, is released.  
+- [2024.05] One paper is accepted by ACL 2024 main conference and one by findings.  
+- [2024.05] Yi-series models are open-sourced and see our [technical report](https://arxiv.org/abs/2403.04652) and [models](https://huggingface.co/01-ai).  
+- [2024.05] One paper is accepted by ICML 2024.

@@ -25,7 +25,7 @@ COLM 2024. [[paper](https://arxiv.org/abs/2402.15809)][[code](https://github.com
 Ziwei Chai, **Guoyin Wang**, Jing Su, Tianjie Zhang, Xuanwen Huang, Xuwu Wang, Jingjing Xu, Jianbo Yuan, Hongxia Yang, Fei Wu, Yang Yang  
 ACL 2024 Main. [[paper](https://arxiv.org/abs/2403.16854)][[code](https://github.com/zjunet/ETR)]  
 
-**LoraRetriever: Input-Aware LoRA Retrieval and Composition for Mixed Tasks in the Wild**
+**LoraRetriever: Input-Aware LoRA Retrieval and Composition for Mixed Tasks in the Wild**  
 Ziyu Zhao, Leilei Gan, **Guoyin Wang**, Wangchunshu Zhou, Hongxia Yang, Kun Kuang, Fei Wu  
 ACL 2024 Findings. [[paper](https://arxiv.org/abs/2402.09997)][[code](https://github.com/StyxXuan/LoraRetriever)]
 
